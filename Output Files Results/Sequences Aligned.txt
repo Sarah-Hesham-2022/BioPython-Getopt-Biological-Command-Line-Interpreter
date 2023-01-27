@@ -1,0 +1,2 @@
+Alignment(seqA='AGCCT', seqB='AG-C-', score=3.0, start=0, end=5)
+Alignment(seqA='AGCCT', seqB='AGC--', score=3.0, start=0, end=5)

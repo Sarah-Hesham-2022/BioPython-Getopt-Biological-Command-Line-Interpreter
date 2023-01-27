@@ -1,0 +1,378 @@
+****Alignment****
+sequence: gi|1853088208|gb|CP054431.1| Chlamydia trachomatis strain CH2_mutant_L2/434/Bu(i) plasmid unnamed
+length: 7676
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1853087206|gb|CP054433.1| Chlamydia trachomatis strain CH1_mutant_L2/434/Bu(i) plasmid unnamed
+length: 7676
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1853086301|gb|CP054429.1| Chlamydia trachomatis strain CH3_mutant_L2/434/Bu(i) plasmid unnamed
+length: 7676
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1853085398|gb|CP054427.1| Chlamydia trachomatis strain CH5_mutant_L2/434/Bu(i) plasmid unnamed
+length: 7676
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|2317634782|gb|CP106986.1| Chlamydia trachomatis strain L2f plasmid p7Kb, complete sequence
+length: 7500
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380252486|emb|HE603228.1| Chlamydia trachomatis L3/404/LN plasmid pL3404 complete sequence
+length: 7415
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380251597|emb|HE603227.1| Chlamydia trachomatis L2b/UCH-2 plasmid pL2bUCH2 complete sequence
+length: 7473
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380251588|emb|HE603226.1| Chlamydia trachomatis L2b/LST plasmid pL2bLST complete sequence
+length: 7500
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380251534|emb|HE603220.1| Chlamydia trachomatis L1/224 plasmid pL1224 complete sequence
+length: 7500
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380251525|emb|HE603219.1| Chlamydia trachomatis L1/1322/p2 plasmid pL11322 complete sequence
+length: 7500
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380251516|emb|HE603218.1| Chlamydia trachomatis L1/115 plasmid pL1115 complete sequence
+length: 7500
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380251471|emb|HE603213.1| Chlamydia trachomatis L2b/Ams1 plasmid pAms1 complete sequence >gi|380251480|emb|HE603214.1| Chlamydia trachomatis L2b/Ams2 plasmid pAms2 complete sequence >gi|380251489|emb|HE603215.1| Chlamydia trachomatis L2b/Ams3 plasmid pAms3 complete sequence >gi|380251498|emb|HE603216.1| Chlamydia trachomatis L2b/Ams4 plasmid pAms4 complete sequence >gi|380251507|emb|HE603217.1| Chlamydia trachomatis L2b/Ams5 plasmid pAms5 complete sequence >gi|380251543|emb|HE603221.1| Chlamydia trachomatis L2b/795 plasmid pL2b795 complete sequence >gi|380251552|emb|HE603222.1| Chlamydia trachomatis L2b/8200/07 plasmid pL2b820007 complete sequence >gi|380251561|emb|HE603223.1| Chlamydia trachomatis L2b/Canada1 plasmid pL2bCan1 complete sequence >gi|380251570|emb|HE603224.1| Chlamydia trachomatis L2b/Canada2 plasmid pL2bCan2 complete sequence >gi|380251579|emb|HE603225.1| Chlamydia trachomatis L2b/CV204 plasmid pL2bCV204 complete sequence >gi|806978425|gb|CP009926.1| Chlamydia trachomatis strain L2b/CS784/08 plasmid, complete sequence >gi|806979337|gb|CP009924.1| Chlamydia trachomatis strain L2b/CS19/08 plasmid, complete sequence
+length: 7500
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|194680626|emb|X06707.3| Chlamydia trachomatis cryptic plasmid pLGV440
+length: 7500
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|165931721|emb|AM886279.1| Chlamydia trachomatis pUCH-1 plasmid
+length: 7500
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|165931711|emb|AM886278.1| Chlamydia trachomatis pL2 plasmid >gi|478751958|gb|CP003966.1| Chlamydia trachomatis L2/434/Bu(f) plasmid pL2/434/Bu(f), complete sequence >gi|478752900|gb|CP003964.1| Chlamydia trachomatis L2/434/Bu(i) plasmid pL2/434/Bu(i), complete sequence
+length: 7499
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|158322049|gb|EU180727.1| Chlamydia trachomatis plasmid pCT clone C10-1 ORF7 and ORF8 genes, partial cds >gi|158322052|gb|EU180728.1| Chlamydia trachomatis plasmid pCT clone C10-10 ORF7 and ORF8 genes, partial cds >gi|158322055|gb|EU180729.1| Chlamydia trachomatis plasmid pCT clone C10-3 ORF7 and ORF8 genes, partial cds >gi|158322058|gb|EU180730.1| Chlamydia trachomatis plasmid pCT clone C10-4 ORF7 and ORF8 genes, partial cds >gi|158322061|gb|EU180731.1| Chlamydia trachomatis plasmid pCT clone C10-7 ORF7 and ORF8 genes, partial cds >gi|158322064|gb|EU180732.1| Chlamydia trachomatis plasmid pCT clone C2-3 ORF7 and ORF8 genes, partial cds >gi|158322067|gb|EU180733.1| Chlamydia trachomatis plasmid pCT clone C2-6 ORF7 and ORF8 genes, partial cds >gi|158322070|gb|EU180734.1| Chlamydia trachomatis plasmid pCT clone C4-1 ORF7 and ORF8 genes, partial cds >gi|158322073|gb|EU180735.1| Chlamydia trachomatis plasmid pCT clone C4-4 ORF7 and ORF8 genes, partial cds >gi|158322076|gb|EU180736.1| Chlamydia trachomatis plasmid pCT clone C4-5 ORF7 and ORF8 genes, partial cds >gi|158322079|gb|EU180737.1| Chlamydia trachomatis plasmid pCT clone C4-6 ORF7 and ORF8 genes, partial cds >gi|158322082|gb|EU180738.1| Chlamydia trachomatis plasmid pCT clone C9-12 ORF7 and ORF8 genes, partial cds >gi|158322085|gb|EU180739.1| Chlamydia trachomatis plasmid pCT clone C9-14 ORF7 and ORF8 genes, partial cds >gi|158322088|gb|EU180740.1| Chlamydia trachomatis plasmid pCT clone C9-15 ORF7 and ORF8 genes, partial cds >gi|158322091|gb|EU180741.1| Chlamydia trachomatis plasmid pCT clone C9-3 ORF7 and ORF8 genes, partial cds >gi|158322094|gb|EU180742.1| Chlamydia trachomatis plasmid pCT clone C9-7 ORF7 and ORF8 genes, partial cds >gi|158322097|gb|EU180743.1| Chlamydia trachomatis plasmid pCT clone C9-8 ORF7 and ORF8 genes, partial cds
+length: 664
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|40730|emb|X07547.1| C. trachomatis plasmid DNA for growth within mammalian cells
+length: 7499
+e value: 2.34621e-52
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1104541593|gb|CP018053.1| Chlamydia trachomatis strain QH111L plasmid pQH111L, complete sequence
+length: 7503
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1067106305|gb|CP016425.1| Chlamydia trachomatis strain SB013112 plasmid unnamed1, complete sequence
+length: 7504
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1067104939|gb|CP016423.1| Chlamydia trachomatis strain SB008107 plasmid unnamed1, complete sequence
+length: 7506
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1067103422|gb|CP016421.1| Chlamydia trachomatis strain SB006930 plasmid unnamed1, complete sequence
+length: 7506
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1067102362|gb|CP016419.1| Chlamydia trachomatis strain SB002739 plasmid unnamed1, complete sequence
+length: 7506
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380252690|emb|HE603231.1| Chlamydia trachomatis D/SotonD6 plasmid pSotonD6 complete sequence >gi|380252753|emb|HE603238.1| Chlamydia trachomatis K/SotonK1 plasmid pSotonK1 complete sequence >gi|899745353|gb|CP007132.1| Chlamydia trachomatis D/CS637/11 plasmid unnamed, complete sequence
+length: 7493
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380252726|emb|HE603235.1| Chlamydia trachomatis G/SotonG1 plasmid pSotonG1 complete sequence >gi|899748098|gb|CP010572.1| Chlamydia trachomatis strain Ia/CS190/96 plasmid, complete sequence
+length: 7471
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380252681|emb|HE603230.1| Chlamydia trachomatis D/SotonD5 plasmid pSotonD5 complete sequence
+length: 7492
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|317415982|emb|FM865436.1| Chlamydia trachomatis plasmid pCTR, strain A2497, serovar A
+length: 7480
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|228007403|emb|FM865438.1| Chlamydia trachomatis plasmid pJALI, strain Jali20, serovar B
+length: 7506
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|228007394|emb|FM865437.1| Chlamydia trachomatis plasmid pCTB, strain B/TZ1A828/OT, serovar B >gi|380251444|emb|HE603210.1| Chlamydia trachomatis A/5291 plasmid pA5291 complete sequence >gi|380251453|emb|HE603211.1| Chlamydia trachomatis A/7249 plasmid pA7249 complete sequence >gi|383081617|emb|HE603209.2| Chlamydia trachomatis A/363 plasmid pA363 complete sequence
+length: 7502
+e value: 1.21537e-49
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1034275911|gb|CP015305.1| Chlamydia trachomatis strain E-DK-20 plasmid pCtrEDK20, complete sequence
+length: 7502
+e value: 5.16787e-48
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1034274076|gb|CP015301.1| Chlamydia trachomatis strain E-8873 plasmid pCtrE8873, complete sequence
+length: 7493
+e value: 5.16787e-48
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|565679406|gb|CP006946.1| Chlamydia trachomatis C/TW-3 plasmid unnamed, complete sequence
+length: 7501
+e value: 5.16787e-48
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+|||||||||||||||||||||| || |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACATCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380252735|emb|HE603236.1| Chlamydia trachomatis Ia/SotonIa1 plasmid pSotonIa1 complete sequence >gi|380252744|emb|HE603237.1| Chlamydia trachomatis Ia/SotonIa3 plasmid pSotonIa3 complete sequence
+length: 7500
+e value: 5.16787e-48
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||| |||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCGTCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|228007439|emb|FM865442.1| Chlamydia trachomatis plasmid pSW5, strain Sweden5, serovar F
+length: 7471
+e value: 5.16787e-48
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|228007430|emb|FM865441.1| Chlamydia trachomatis plasmid pSW4, strain Sweden4, serovar F >gi|380252672|emb|HE603229.1| Chlamydia trachomatis D/SotonD1 plasmid pSotonD1 complete sequence >gi|380252717|emb|HE603234.1| Chlamydia trachomatis F/SotonF3 plasmid pSotonF3 complete sequence >gi|1034276824|gb|CP015307.1| Chlamydia trachomatis strain F-6068 plasmid pCtrF6068, complete sequence
+length: 7493
+e value: 5.16787e-48
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|144462|gb|J03321.1|CH1L1CG Chlamydia trachomatis plasmid pCHL1, complete sequence
+length: 7502
+e value: 5.16787e-48
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1067108145|gb|CP016427.1| Chlamydia trachomatis strain SB013321 plasmid unnamed1, complete sequence
+length: 7497
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+|||||||||||||||||||||||||  |  |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCAYAWWATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|144607|gb|M19487.1|PLMORF Chlamydia trachomatis plasmid pCTT1 unknown proteins (ORF2-7) and dnaB-like protein genes, complete cds, and unknown protein (ORF1) and replication protein genes, partial cds
+length: 7496
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||| |||||||
+GGTAAGTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAA-CGTTGTC
+****Alignment****
+sequence: gi|1034271323|gb|CP015295.1| Chlamydia trachomatis strain E-103 plasmid CtrE-103, complete sequence
+length: 7502
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|899747183|gb|CP010570.1| Chlamydia trachomatis strain F/CS847/08 plasmid, complete sequence
+length: 7493
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||| |||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCATTGTC
+****Alignment****
+sequence: gi|899746270|gb|CP010568.1| Chlamydia trachomatis strain E/CS1025/11 plasmid, complete sequence
+length: 7502
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|568246878|gb|KF724860.1| Transformation vector pGFPBSDZ-SW2, complete sequence
+length: 10764
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380252708|emb|HE603233.1| Chlamydia trachomatis E/SotonE8 plasmid pSotonE8 complete sequence >gi|1034274998|gb|CP015303.1| Chlamydia trachomatis strain E-32931 plasmid pCtrE32931, complete sequence
+length: 7502
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|380252699|emb|HE603232.1| Chlamydia trachomatis E/SotonE4 plasmid pSotonE4 complete sequence
+length: 7502
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|228007421|emb|FM865440.1| Chlamydia trachomatis plasmid pSW3, strain Sweden3, serovar E >gi|380251462|emb|HE603212.1| Chlamydia trachomatis E/Bour plasmid pBour complete sequence >gi|464093961|emb|HF562299.1| Chlamydia trachomatis IU824 plasmid pIU824, complete sequence >gi|464094928|emb|HF562301.1| Chlamydia trachomatis IU888 plasmid pIU888, complete sequence >gi|478751006|gb|CP003970.1| Chlamydia trachomatis strain E/CS88(i) plasmid pE/CS88(i), complete sequence >gi|478751015|gb|CP003971.1| Chlamydia trachomatis strain E/CS88(f) plasmid pE/CS88(f), complete sequence >gi|1034272238|gb|CP015297.1| Chlamydia trachomatis strain E-160 plasmid pCtrE160, complete sequence >gi|1034273152|gb|CP015299.1| Chlamydia trachomatis strain E-547 plasmid pCtrE547, complete sequence
+length: 7502
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|228007412|emb|FM865439.1| Chlamydia trachomatis plasmid pSW2, strain Sweden2, serovar E
+length: 7169
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|119352261|gb|EF121757.1| Chlamydia trachomatis plasmid pLGV440 sequence flanking a deletion
+length: 607
+e value: 6.29576e-47
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||||| ||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||| ||||||||||||||||||
+GGTAATTCCTCTAGTACAAACACCCACAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGCTATATTAGAGCCAGCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|575868419|gb|KF790909.1| Cloning vector pBOMB4R-MCI, complete sequence
+length: 10768
+e value: 1.92759e-34
+CCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||| ||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CCATTAAGGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|575868419|gb|KF790909.1| Cloning vector pBOMB4R-MCI, complete sequence
+length: 10768
+e value: 1.21644e-30
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACAC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACAC
+****Alignment****
+sequence: gi|575868417|gb|KF790908.1| Cloning vector pBOMB4R, complete sequence
+length: 10755
+e value: 1.92759e-34
+CCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+||| ||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CCATTAAGGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|575868417|gb|KF790908.1| Cloning vector pBOMB4R, complete sequence
+length: 10755
+e value: 1.21644e-30
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACAC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACAC
+****Alignment****
+sequence: gi|1834305694|gb|MT241513.1| Cloning vector pREF100, complete sequence
+length: 11748
+e value: 1.92759e-34
+GTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|1834305694|gb|MT241513.1| Cloning vector pREF100, complete sequence
+length: 11748
+e value: 2.34828e-33
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGC
+****Alignment****
+sequence: gi|575868421|gb|KF790910.1| Cloning vector pBOMB4-Tet-mCherry, complete sequence
+length: 12003
+e value: 1.92759e-34
+GTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGCTATATTAGAGCCATCTTCTTTGAAGCGTTGTC
+****Alignment****
+sequence: gi|575868421|gb|KF790910.1| Cloning vector pBOMB4-Tet-mCherry, complete sequence
+length: 12003
+e value: 2.34828e-33
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACTTTTAGGC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+GGTAAGTCCTCTAGTACAAACACCCCCAATATTGTGATATAATTAAAATTATATTCATATTCTGTTGCCAGAAAAAACACCTTTAGGC
