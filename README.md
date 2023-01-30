@@ -1,5 +1,5 @@
-# Biological-Command-Line-Interpreter-
-BioPython Project
+# BioPython-Getopt-Biological-Command-Line-Interpreter
+BioPython Project using getopt library in python
 
 ![image](https://user-images.githubusercontent.com/112272836/215086629-0e56dca4-2a3d-4948-a7b4-20a23c403592.png)
 ![image](https://user-images.githubusercontent.com/112272836/215086685-3c20e1c6-269e-4502-9093-50e02976b2f7.png)
@@ -78,7 +78,7 @@ BioPython Project
 
 -So as to give user freedom in their input format
 
--Also here are 25 examples with all possible inputs from the user and using all function as well:
+-Also here are 20+ examples with all possible inputs from the user and using all function as well:
 
 ![1](https://user-images.githubusercontent.com/112272836/215087531-4b01a612-446d-40e2-bceb-ddd92650eb5a.PNG)
 ![2](https://user-images.githubusercontent.com/112272836/215087537-9f153ae9-ac2f-4cc5-8066-9c8cd46b7a96.PNG)
